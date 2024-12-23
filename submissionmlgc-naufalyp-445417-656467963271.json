@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "submissionmlgc-naufalyp-445417",
-  "private_key_id": "6564679632712ede1458d04243d8dc34888eb10e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6ahP0ppzSOStb\n0ixtg3OLSI1C5vL09whJxAi6yIM9gs45KK/G6bqwje0U0JyKKM+ONz4HDojFuhO+\ncusHLMNBCzj/OstCRX6sElJoLJ9cazYFp2XZkrp9GV3eFNmmsXBQulUp6cbBPAjk\nIa3xCVSXRDBHNo91BbJR0WNtiZqwXjwUjfoQhs5eyzRivuzD3GrotviVOnuNnptF\nZGoT3xjLWZxKTOsOxFGR8DOw+pZkGEKIpZ8DTNNcMoQtkvbWCEIdCvRaQm5FGDm4\nE4T1oa6Q7QhvFvFs9Ag8nfjKxtnj4yxSxr+97Rb+f5QR5T+0SkBTFixaQOYTyH1k\n5zju6KobAgMBAAECggEAKd6pnMnPb2hn1LfgQrjDuwUQtXYqG9tggTEGxO1EjQxU\nRYJd+M+GnyFBnus8Pcvs0oSV6f/ZuI+S37PwFix3rqRWqP0LqlbxnLSAzeU35gou\nmBaBSd0rBe4spzUHreks0PUJK+DWQ5C4boUiDIGL/m3SaixXDHG7G6VsL644kGQ3\ny1GJn4D5BTqMcbMyhzlBxWlcnhkrwcTNUmPzgrXqSrammSU2OiSbnvnLcPtVxNC3\n+7GmP74wO0nj5lh3lLv58wPp5o7qwgHeUJAcvz+LbxYZBK1cB4RoPuBwEY/B/EuJ\nic3IFzFr0kvooKs3bPF4EJYmmXbr/ceDazm3HI6UAQKBgQDn6MNiVE0PIFjf9HnD\nLEr0Gl8gK8JPHbo35H8zxbzm2ebxPg3FB0Fzwiyy7GjEMWMILmbdfuUSPolythWI\n6Xnw5UjXI7dmczS2yFAith7KInkKrodLPGn4f4GRCHWsVCqaFbjNtXHf6BAqvRwq\nuRBKXYjUTDuur/ofkNJloqvi/wKBgQDNx3SGL8w+BeXHau/w7ILWjQlXK1ELsLea\noJhPO5q78xnhT+/a6P4JKG9JfBqbqAVsOT4qZbgsFNu5z3vLvyM1sAEOAT3t7PBO\nTZCCQlvAAMqq69vhX9YH4+qdbbqTwHWv62WQjijMK7oS2gFtmssgOBZmzy0w6HnB\nHrSBqIVk5QKBgE4tpHgobRXVVMCivM1zyAzEOx8wQT/EiLtA1zTPyx+Tg4v93Ex4\nZrMsWT8z/RlugLEIW3r9xSFCXbmC8n2GH6p60PRdwPzTh4i6vHEHLhf8SQu1zDwr\nsJmp+ja3QFwIv5fUDMmkCjBuHc0alT09x+UZ5P+Ud2YrQsmTW6oRjZpnAoGAMBGQ\ngav2rOJZy5yKUiAdbBrj/K3Mr8tnCELNcWy993uRJxWyNNPKS79bR7Iq0QONyLsS\nb3r1a66vqRbzlyOeCPOFO41Etyhq9g+eWx8/KXnF3elcoqftakhuTLoOJGeH1kFJ\np1vd4duxCqhMPxsyqeMQMJHiv5L+pgMTLVp9VpUCgYEAkH6Ljxq/OVXvPO2qu1x/\n29bI4pBu7koBYwL4k+WkianZAIpLjG9SbHAzgdkHk38Q65XOYJj95TcrnCnH81u9\nZ8m974OfPna8KM33uXFVZefVNReZEnj4STEKXfuOVRnwuc8v+8stLqKM3/c3NsaI\nvPSDwth40THe+cwj2rSfQ9A=\n-----END PRIVATE KEY-----\n",
-  "client_email": "service-naufalyp@submissionmlgc-naufalyp-445417.iam.gserviceaccount.com",
-  "client_id": "107400386469522261515",
+  "project_id": "[YOUR PROJECT ID]",
+  "private_key_id": "[SECRET PRIVATE KEY IS]",
+  "private_key": "[YOUR PRIVATE KEY]",
+  "client_email": "[SECRET CLIENT EMAIL]",
+  "client_id": "[SECRET CLIENT ID]",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-naufalyp%40submissionmlgc-naufalyp-445417.iam.gserviceaccount.com",
+  "client_x509_cert_url": "[SECRET]",
   "universe_domain": "googleapis.com"
 }
